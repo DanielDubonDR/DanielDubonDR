@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/63989923/151834650-3f4deeaa-ca11-446a-a0aa-960de27bcb46.gif" align="center" style="width: 70%; height:100% " />
+<img src="https://user-images.githubusercontent.com/63989923/151835598-a8b6082e-bea8-47d8-a3d5-3aca65f08ea7.gif" align="center" style="width: 100%; height:100% " />
 </div> 
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
