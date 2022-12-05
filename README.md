@@ -4,7 +4,7 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDubonDR&theme=chartreuse-dark&langs_count=7)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDubonDR&theme=chartreuse-dark&langs_count=8)
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielDubonDR&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/>
 
 
